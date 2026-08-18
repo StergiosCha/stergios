@@ -1,0 +1,804 @@
+{
+ "items": {
+  "events/2017-12-27-fuit-grevena/01": {
+   "id": "events/2017-12-27-fuit-grevena/01",
+   "category": "events",
+   "owner": "2017-12-27-fuit-grevena",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1929,
+   "h": 1362,
+   "orig": "1929x1362",
+   "src": {
+    "1600": "media/events/2017-12-27-fuit-grevena/01-1600.webp",
+    "800": "media/events/2017-12-27-fuit-grevena/01-800.webp",
+    "400": "media/events/2017-12-27-fuit-grevena/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBQCdASoYABEAPu1qrlCppaQiqAqpMB2JYwCsAdwAYVb4ELHXvlEzu9omF3cVmv8IAM0xdXtCTfE/S+eTL3L8RczSuOu7jrxmH24k/nTg7ybUfBNGwhc3BUTicLA/bj9ek4qIai3sZvJn64QTUvylqTCBm55T82Ervwcb1EgPkvMKLNjbWXAo4+TFS5kvBkOBPUMvwmMSUkSWXDZ68lHtWEZ1pQGeE9OIX0IH+XUwAn12xUFigcTM8AA="
+  },
+  "events/2018-10-12-aition-athens/01": {
+   "id": "events/2018-10-12-aition-athens/01",
+   "category": "events",
+   "owner": "2018-10-12-aition-athens",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1440,
+   "h": 976,
+   "orig": "1440x976",
+   "src": {
+    "1600": "media/events/2018-10-12-aition-athens/01-1600.webp",
+    "800": "media/events/2018-10-12-aition-athens/01-800.webp",
+    "400": "media/events/2018-10-12-aition-athens/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadMZUYH1V4zAQfRuuqWxe+AAD+6PDjVJcbgcTuYoda5AVGSYpPne+rrMNQ49kvciyNvBeYXGlpV/da+bhUFOsBvZgGKqZ040C0TYV+Qvy6my2WMj/Y6MsuTCu+s/SQBWFalv/sBmF6q9PdJ4F2maJkulFMHJWbhsDt4gl6mnoT3OvBwVc7eEXAAA=="
+  },
+  "events/2019-01-11-zogia-thessaloniki/01": {
+   "id": "events/2019-01-11-zogia-thessaloniki/01",
+   "category": "events",
+   "owner": "2019-01-11-zogia-thessaloniki",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1029,
+   "h": 790,
+   "orig": "1029x790",
+   "src": {
+    "1600": "media/events/2019-01-11-zogia-thessaloniki/01-1600.webp",
+    "800": "media/events/2019-01-11-zogia-thessaloniki/01-800.webp",
+    "400": "media/events/2019-01-11-zogia-thessaloniki/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASoYABIAPu1ur1IppiQiqAgBMB2JaQAGQArlQuNfVje1sN9ncMaFjNnG0d1AAP5qEa1uVmYtopZ5tgZdqzvR2dhgImbbxPF68mXnbe15C/4TJtd5gGjxoTfTeylcHBVvAJ5ek+NJzJv0JQwxgNoLArvsXA/TqVkY0viVztvJeAag3Hpm5uUs4h5mrjjyXGKhjJ/FE9ww0tvQ+TyS3Z0DHWWfUCRL7/9J3mlSboLX4AAAAA=="
+  },
+  "events/2019-12-19-aition-athens/01": {
+   "id": "events/2019-12-19-aition-athens/01",
+   "category": "events",
+   "owner": "2019-12-19-aition-athens",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1613,
+   "h": 1302,
+   "orig": "1613x1302",
+   "src": {
+    "1600": "media/events/2019-12-19-aition-athens/01-1600.webp",
+    "800": "media/events/2019-12-19-aition-athens/01-800.webp",
+    "400": "media/events/2019-12-19-aition-athens/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASoYABMAPu1sq1EppaOiqAqpMB2JQBOmYdS4ATbkiFoiIshMW9Q1kC26GR+5xgAA/uhFs6Q3/woG39j6BlfCsrMQUT02VaVCCxaQYMyddKyP1ZMyruonCii1nK+Xy6719LYLFDVcromdN+Xegn61MJJmJaOVEeE6BuE65ylwJJFDGzp0aZ/GRPXLGdhLC12fGUr6Q4EA613EWg2VOJayqEfqyqb0QTtM3PfpGGAOHy9wo8Ck8tU+hgAA"
+  },
+  "events/2019-12-29-fuit-grevena/01": {
+   "id": "events/2019-12-29-fuit-grevena/01",
+   "category": "events",
+   "owner": "2019-12-29-fuit-grevena",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1440,
+   "h": 1042,
+   "orig": "1440x1042",
+   "src": {
+    "1600": "media/events/2019-12-29-fuit-grevena/01-1600.webp",
+    "800": "media/events/2019-12-29-fuit-grevena/01-800.webp",
+    "400": "media/events/2019-12-29-fuit-grevena/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAwBQCdASoYABEAPu1qr1AppaSiqAqpMB2JYwDCgA5W+WWUIP0C5V6za4c2QohsnXIUYAD+zyJw3O3JHnyLgOQ4O4FK2r6N4ooq0Epfz0TRUwKfJ1niXaYmEE1fRzjd7FKQGJpa+7Q+H94ejccvCpROBKzB3g/SI7lXXKK9nNDVCougJvY53/o7AK/HPrnq35gMVpp3YlcEvuzZmCDAanV5YMTcC6mqRhDyIAAAAAA="
+  },
+  "events/2021-10-20-arokaria/01": {
+   "id": "events/2021-10-20-arokaria/01",
+   "category": "events",
+   "owner": "2021-10-20-arokaria",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1012,
+   "h": 750,
+   "orig": "1012x750",
+   "src": {
+    "1600": "media/events/2021-10-20-arokaria/01-1600.webp",
+    "800": "media/events/2021-10-20-arokaria/01-800.webp",
+    "400": "media/events/2021-10-20-arokaria/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoYABIAPu1sq1EppaOiqAqpMB2JYgCsIP8BfcYANnIx60nNC3HEoA3gqAD928ild44KY3Gd7HWIh4XP2lbNWIigCL3VLFpXODH2dCsxwxW6AO1nYGG7cXxesLvWvDa8wGO8551LdWFcMqp4EYMT6aijSrm+W1AF6rERGVEmRPwh6MW1MXZcrwIbfOqzjYZuO/hDZWG4ZAWO6DwpiBWrwIcVJAnFRPGpPFqfr/5KOCeqAoQJAAA="
+  },
+  "events/2021-11-27-heraklion-kalokairinos/01": {
+   "id": "events/2021-11-27-heraklion-kalokairinos/01",
+   "category": "events",
+   "owner": "2021-11-27-heraklion-kalokairinos",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1125,
+   "h": 975,
+   "orig": "1125x975",
+   "src": {
+    "1600": "media/events/2021-11-27-heraklion-kalokairinos/01-1600.webp",
+    "800": "media/events/2021-11-27-heraklion-kalokairinos/01-800.webp",
+    "400": "media/events/2021-11-27-heraklion-kalokairinos/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADwBQCdASoYABUAPu1wsFIppiSiqAgBMB2JQBBX4cBy5xus+ZItVqfcQUp78MjWQMqP2GfUZUeRAAD6DQKInJU/J76KvjgcwPyxYhVe/JwnC8ahj4SnJApknfXuY/+OyyNvfI3f/q/n6qSgYH8+/4FBSVWBvEWc2fU9D4RV1enBADkk8qXaKi5GJHjssSkdnXIMIwM6hJe2ZozjxcYTWHk4euWK4P79RLnkMFI0wBH2+rvCYz2dGPRjlSFO+HQg7fbKU3R+IDmT54AA"
+  },
+  "events/2022-04-15-zogia-thessaloniki/01": {
+   "id": "events/2022-04-15-zogia-thessaloniki/01",
+   "category": "events",
+   "owner": "2022-04-15-zogia-thessaloniki",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 2048,
+   "h": 1482,
+   "orig": "2048x1482",
+   "src": {
+    "1600": "media/events/2022-04-15-zogia-thessaloniki/01-1600.webp",
+    "800": "media/events/2022-04-15-zogia-thessaloniki/01-800.webp",
+    "400": "media/events/2022-04-15-zogia-thessaloniki/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBQCdASoYABEAPu1srFEppaQiqAqpMB2JYgCsMzLnJBh0Kmat/oRGay5ILEUDDr74APdwXiOKl97l3lqbV57JKy1pFA14CAV/wn9eSp5+/NFusBujpvruHYFuz9LdfkKnaFyc11MtEkaUdpCPtJg1MtpE5QXsddeZO4XaNRdG09rHcccC11ZD/alyPBrrvgk4vqTRiwBdZRUIQb46eZSAFZrylOF+iKRqEvIm4l/VlfwVNzEyRgAAAAA="
+  },
+  "events/2022-04-20-fuit-grevena/01": {
+   "id": "events/2022-04-20-fuit-grevena/01",
+   "category": "events",
+   "owner": "2022-04-20-fuit-grevena",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1600,
+   "h": 1105,
+   "orig": "1600x1105",
+   "src": {
+    "1600": "media/events/2022-04-20-fuit-grevena/01-1600.webp",
+    "800": "media/events/2022-04-20-fuit-grevena/01-800.webp",
+    "400": "media/events/2022-04-20-fuit-grevena/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoYABEAPu1osFAppaSiqAqpMB2JYgCdAAxy2vMwpAB8viHqp3mNz2ZgAP7MxhRPjVkgLEoinscJVTSkhEhTYAZr8gJEfPjWuO5W4uPGuDJblYKiXn4PyCffatk4yxZWRS046hzOGrH+jEhA4gOhVlqufZ2rXWgKnxfKU5sovJUuM2FufSuxrzGGq2WSVrpN8NsPIL66nn0BYGlONSYtXaZAAAA="
+  },
+  "events/2024-03-21-enaestro-exarchia/01": {
+   "id": "events/2024-03-21-enaestro-exarchia/01",
+   "category": "events",
+   "owner": "2024-03-21-enaestro-exarchia",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 808,
+   "h": 590,
+   "orig": "808x590",
+   "src": {
+    "1600": "media/events/2024-03-21-enaestro-exarchia/01-1600.webp",
+    "800": "media/events/2024-03-21-enaestro-exarchia/01-800.webp",
+    "400": "media/events/2024-03-21-enaestro-exarchia/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASoYABIAPu1sqlEppaOiqAqpMB2JQBOmUAA1UT0u8E6QSOmCkTl7r+V6a77IAP6jcAPGr9jCn6Q+Xg8orNysudu3RExT6lJkNZAmy1vI+Xshf/W8/Kj3KmOlcmQlsKbXGgTS5UmOsH9yh9ro00XBdTz0Fdr4EnE6J0gGshr/nkiLc20Du6ng25L/pqb5U3UbnIBa+x6P6yHxAufDOEZGfbQ1gdJryrF4joVev3cpWrYAC70aYEHdJYW2YucFc82J0KSapSjxmekvSNYgAAA="
+  },
+  "events/2024-06-08-mple-elafi-kozani/01": {
+   "id": "events/2024-06-08-mple-elafi-kozani/01",
+   "category": "events",
+   "owner": "2024-06-08-mple-elafi-kozani",
+   "kind": "poster",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 894,
+   "h": 947,
+   "orig": "894x947",
+   "src": {
+    "1600": "media/events/2024-06-08-mple-elafi-kozani/01-1600.webp",
+    "800": "media/events/2024-06-08-mple-elafi-kozani/01-800.webp",
+    "400": "media/events/2024-06-08-mple-elafi-kozani/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBQCdASoXABgAPu1qqFAppiOiqA1RMB2JaQAD4/EKvBwmSd0QbVOTlfe3IHnAHCW4AP7t4HgxsMRsPtju3/eGBmxaO0tUu+cZffuvujteDiHZjzOYhYk4W8LzZdbjz2mgV7buGJKFYl3fysRV0V0a0dvC8QDyUPWkxb7qmzTykn+pFeJayrzIEZFQGsvFOSdSWNs0704cNdWURbENymuuIgm38ni6bVgQkYq4IWdfN0/mTnjprNn86APPqfVqUT4TAAAA"
+  },
+  "events/2024-12-29-cafe-lotos/01": {
+   "id": "events/2024-12-29-cafe-lotos/01",
+   "category": "events",
+   "owner": "2024-12-29-cafe-lotos",
+   "kind": "poster",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1448,
+   "h": 1848,
+   "orig": "1448x1848",
+   "src": {
+    "1600": "media/events/2024-12-29-cafe-lotos/01-1600.webp",
+    "800": "media/events/2024-12-29-cafe-lotos/01-800.webp",
+    "400": "media/events/2024-12-29-cafe-lotos/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBQCdASoTABgAPu1irVAppSQisBgIATAdiWUAAC50oyzgUh9dyXg5WRwPea9I/krAAP7wPVAVOfvx68zAergtrh2DstsOgSkTGnVVnu3R7njQ6rB4z1lVO1OnHefuKinz1f4caFULs0Q+nyLrDTmI2naSaSwRBkgDgz2O9AWumrJcM47Xa/b6GyeHoq96Q5R9vgE0TXS2Y/IiirEOZ1STrGeVUmmteV1MAA=="
+  },
+  "events/2024-grover2-anagnostopoulos-papadimas/01": {
+   "id": "events/2024-grover2-anagnostopoulos-papadimas/01",
+   "category": "events",
+   "owner": "2024-grover2-anagnostopoulos-papadimas",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1080,
+   "h": 836,
+   "orig": "1080x836",
+   "src": {
+    "1600": "media/events/2024-grover2-anagnostopoulos-papadimas/01-1600.webp",
+    "800": "media/events/2024-grover2-anagnostopoulos-papadimas/01-800.webp",
+    "400": "media/events/2024-grover2-anagnostopoulos-papadimas/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASoYABMAPu1osFAppaUiqAqpMB2JbACxHyMvqgGaAhLeB3lHawAlZ+veif+dDwy0AAD+8rQ2c3HJyPD6p8RiCaRcDOxZcS58iyG73z3TfczxmYNMoUrkMaCx0rou48yeBRZkujX0O+ekTJYMzNp3yOHUr0U9D5PBqSTiOQXYuR5Y0grCy7fWI5ODSmUzxWBkGpQ6+KA8OTkd4xcA3WiSKK8qumZvQjFdeBEUDU2WBcXDv18ekwyDXBsd5RzsLFIVsmQqwAAA"
+  },
+  "events/2024-grover2-grevena/01": {
+   "id": "events/2024-grover2-grevena/01",
+   "category": "events",
+   "owner": "2024-grover2-grevena",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1309,
+   "h": 869,
+   "orig": "1309x869",
+   "src": {
+    "1600": "media/events/2024-grover2-grevena/01-1600.webp",
+    "800": "media/events/2024-grover2-grevena/01-800.webp",
+    "400": "media/events/2024-grover2-grevena/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgBGAFjIbgO0jCWphuAAD+2Y+m7OEXOZSD5VcfnY4gWF0P4CmGtN+aFxQo7to36yOt7c7algbBcXHRgcZrVUVYr1nwLp9Gtq5xdVbD/IZtb/bsrTLGMd4f8nnvzFZau8i7rIesO9s7FjY/dpTV+2sUuBgiBqWaxf+zf+c9ehQHUejVrwAA"
+  },
+  "events/2024-grover2-thessaloniki/01": {
+   "id": "events/2024-grover2-thessaloniki/01",
+   "category": "events",
+   "owner": "2024-grover2-thessaloniki",
+   "kind": "poster",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1522,
+   "h": 900,
+   "orig": "1522x900",
+   "src": {
+    "1600": "media/events/2024-grover2-thessaloniki/01-1600.webp",
+    "800": "media/events/2024-grover2-thessaloniki/01-800.webp",
+    "400": "media/events/2024-grover2-thessaloniki/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JYwCdACDkCjm920nYwAvAAP6Q99Q1DXAiJHMuRXB4aNv5bbbdVKb853ONvqIOvj+AFaCKmE6kOZCljvLJLqz3r1xegQKZMCptDI5xvog3S2iHclGyFWQZtV6v9YefqyCv6Rv+eEOlD0tjCwWsVnPWXCfRwS7f1yah9/NAGhlnuHoenXpbMoiagbRNkAAA"
+  },
+  "events/2025-03-27-enaestro/01": {
+   "id": "events/2025-03-27-enaestro/01",
+   "category": "events",
+   "owner": "2025-03-27-enaestro",
+   "kind": "poster",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 1448,
+   "h": 1852,
+   "orig": "1448x1852",
+   "src": {
+    "1600": "media/events/2025-03-27-enaestro/01-1600.webp",
+    "800": "media/events/2025-03-27-enaestro/01-800.webp",
+    "400": "media/events/2025-03-27-enaestro/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoTABgAPu1kqE2ppaOiMAgBMB2JQBhuA6clNl5LKMNowVaoAP7ThT/of5TyjkXLHiE5yNFwFHLasV41Qnmbby+tj74qAsNaOWD6bv+5z6Lc3Ahs3CyhUvN/4AtPKQza2tLwlbZKzmDdxu6UoQCouDOQ0uME+pFAdKeehc0TEivILAAA"
+  },
+  "events/2025-12-13-themelio/01": {
+   "id": "events/2025-12-13-themelio/01",
+   "category": "events",
+   "owner": "2025-12-13-themelio",
+   "kind": "photo",
+   "caption": "",
+   "credit": "Google Site (Δραστηριότητες)",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/δραστηριότητες",
+   "date": "",
+   "w": 836,
+   "h": 641,
+   "orig": "836x641",
+   "src": {
+    "1600": "media/events/2025-12-13-themelio/01-1600.webp",
+    "800": "media/events/2025-12-13-themelio/01-800.webp",
+    "400": "media/events/2025-12-13-themelio/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwBACdASoYABIAPu1sqlEppaOiqAqpMB2JZwC90A2wWigI/Pdxurgg4CBJ/+nremgA/lh+pGqMzS2CSA6pilReWWI8svRQ9zvYIpgSgt4/Pvpa2nzuv4UiOybZRWvJ21EFXJ2fUQfQfpzdJZbg04zNLJGeQUrnSJQ2QLk30Y9BVA4Ez84WQXsn1r0MPqBixwARglHvClyjzMZ1QBuS8AAA"
+  },
+  "press/diastixo-2018-grover/screenshot": {
+   "id": "press/diastixo-2018-grover/screenshot",
+   "category": "press",
+   "owner": "diastixo-2018-grover",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Διάστιχο",
+   "source_url": "https://diastixo.gr/kritikes/ellinikipezografia/10899-grover-chatzikiriakidis",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/diastixo-2018-grover/screenshot-1600.webp",
+    "800": "media/press/diastixo-2018-grover/screenshot-800.webp",
+    "400": "media/press/diastixo-2018-grover/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoYAA8APu1iqU2ppaOiMAgBMB2JQBhQAlGH1DdOuFszTsAA85rFFYflgEboh68jUnQaxamhOzT2Db/wcQQ8PAahvQ+cEv9aS81DUy73c50SgzJDXgMfkGKsnXjS6Cg3Xh1+/HluNzWlfRYshk2CRmoWVkiissAUMAAAAA=="
+  },
+  "press/diastixo-2022-vatsnies-min-milas/screenshot": {
+   "id": "press/diastixo-2022-vatsnies-min-milas/screenshot",
+   "category": "press",
+   "owner": "diastixo-2022-vatsnies-min-milas",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Διάστιχο",
+   "source_url": "https://diastixo.gr/kritikes/ellinikipezografia/18222-vatsnies-min-milas",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/diastixo-2022-vatsnies-min-milas/screenshot-1600.webp",
+    "800": "media/press/diastixo-2022-vatsnies-min-milas/screenshot-800.webp",
+    "400": "media/press/diastixo-2022-vatsnies-min-milas/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAwCdASoYAA8APu1iqk2ppaQiMAgBMB2JQBfnAoXfHInEN5lQAPOaxRWH5YBG7cBwBFvSCeTslWVJ8YswscmI5Ao//ExIRXYo8jVa8Lu8cxAzQsuy2FFCMfRB2BGQ8kvlrF1CmUCoDgvsRI10WYgAAAA="
+  },
+  "press/fractal-2021-vatsnies/screenshot": {
+   "id": "press/fractal-2021-vatsnies/screenshot",
+   "category": "press",
+   "owner": "fractal-2021-vatsnies",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Fractal",
+   "source_url": "https://www.fractalart.gr/vats-nies-pyknes-cart-postal-apo-ta-valkania/",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/fractal-2021-vatsnies/screenshot-1600.webp",
+    "800": "media/press/fractal-2021-vatsnies/screenshot-800.webp",
+    "400": "media/press/fractal-2021-vatsnies/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQAwCdASoYAA8APu1iqU2ppaOiMAgBMB2JZQAAW+i+ZKn+4dIAAP7xz0IuM09U6ToLLIC0s8JDaaYsogLgxFyyHuVHx1GRdc1fWBGdU1wgzxBK1bcgJx7W8jxFj2vgAhwAAA=="
+  },
+  "press/goodreads-reader-reviews/screenshot": {
+   "id": "press/goodreads-reader-reviews/screenshot",
+   "category": "press",
+   "owner": "goodreads-reader-reviews",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Goodreads",
+   "source_url": "https://www.goodreads.com/author/show/17260533.Stergios_Chatzikyriakidis",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/goodreads-reader-reviews/screenshot-1600.webp",
+    "800": "media/press/goodreads-reader-reviews/screenshot-800.webp",
+    "400": "media/press/goodreads-reader-reviews/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYAA8APu1iqk2ppaQiMAgBMB2JZwAAW+macGKJ55RjAAD+6vOJCPxOB1lhMkvHqTLEyT6wzGZX5sR4u/2Lz1yUS9EFDsHJXuJEQ0i+UA7Qz/AA"
+  },
+  "press/kathimerini-2019-skalomenoi/screenshot": {
+   "id": "press/kathimerini-2019-skalomenoi/screenshot",
+   "category": "press",
+   "owner": "kathimerini-2019-skalomenoi",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Η Καθημερινή",
+   "source_url": "https://www.kathimerini.gr/culture/books/1093221/skalomenoi-stis-filies-tis-ellinikis-eparchias/",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/kathimerini-2019-skalomenoi/screenshot-1600.webp",
+    "800": "media/press/kathimerini-2019-skalomenoi/screenshot-800.webp",
+    "400": "media/press/kathimerini-2019-skalomenoi/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA8APu1kqU4ppaOiMAgBMB2JaQAAXE7sC+Tsc4ikgAAA/ury9CWrK+HbIgK6sD93G8SzbFzh06sKHyX8kqellrpWwNg4R7aNMk3z4wgAAA=="
+  },
+  "press/olafaq-2022-min-milas/screenshot": {
+   "id": "press/olafaq-2022-min-milas/screenshot",
+   "category": "press",
+   "owner": "olafaq-2022-min-milas",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "olafaq.gr",
+   "source_url": "https://olafaq.gr/culture/book/ena-vivlio-gia-to-kalokairi-min-milas-den-einai-aparemfato/",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/olafaq-2022-min-milas/screenshot-1600.webp",
+    "800": "media/press/olafaq-2022-min-milas/screenshot-800.webp",
+    "400": "media/press/olafaq-2022-min-milas/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAgCdASoYAA8AA4BaJZQCzgD0gbt7Xj+4gYAAAP6ePHxSpt40Hv7x3EO7h0iclHPbcHk35cMSYMYIAY+cP908I4MyfLMYbuhffdBGggpfAtQgAAA="
+  },
+  "press/paok24-2018-grover-interview/screenshot": {
+   "id": "press/paok24-2018-grover-interview/screenshot",
+   "category": "press",
+   "owner": "paok24-2018-grover-interview",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "LiveSport / paok24",
+   "source_url": "https://www.paok24.com/blog/paok24/123160/ena-vivlio-pou-aksizei-na-diavaseis",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/paok24-2018-grover-interview/screenshot-1600.webp",
+    "800": "media/press/paok24-2018-grover-interview/screenshot-800.webp",
+    "400": "media/press/paok24-2018-grover-interview/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAgCdASoYAA8AA4BaJZQCw7ERBuig9khs41ig0AD+4+kl50thF7rl1gHe9dGhD3v3fxHICoTuyvIHZDjhAw5jaNU5sFQzGkE6gwW9fGFoPL9MwK9VAgAA"
+  },
+  "press/radio-2022-ntames-spathi/screenshot": {
+   "id": "press/radio-2022-ntames-spathi/screenshot",
+   "category": "press",
+   "owner": "radio-2022-ntames-spathi",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Ντάμες Σπαθί",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/radio-2022-ntames-spathi/screenshot-1600.webp",
+    "800": "media/press/radio-2022-ntames-spathi/screenshot-800.webp",
+    "400": "media/press/radio-2022-ntames-spathi/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoYAA8APu1iqU2ppaOiMAgBMB2JZwAAXBu0iAesXdfUQQAA/uJ4dmHBDzeJc0Roqbz00cxEvAYrSmS6p+CffSCafOdZ/ENvqzPaIFDzLPDVCAAAAAA="
+  },
+  "press/youtube-2022-ntames-spathi/screenshot": {
+   "id": "press/youtube-2022-ntames-spathi/screenshot",
+   "category": "press",
+   "owner": "youtube-2022-ntames-spathi",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "Ντάμες Σπαθί",
+   "source_url": "https://www.youtube.com/watch?v=LoDnWVyjaes",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/youtube-2022-ntames-spathi/screenshot-1600.webp",
+    "800": "media/press/youtube-2022-ntames-spathi/screenshot-800.webp",
+    "400": "media/press/youtube-2022-ntames-spathi/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAwCdASoYAA8APu1iqU2ppaQiMAgBMB2JZwAAV9HJcolO4P8N2EaAAP6jd2ToG21rOCvqT8ejBC4Bs4hq2OW4kxg+HPrYRVmpGCxBGnS4AMkf8Eggbj6YFc/k1iTODcV4eyfukZ6z3ORahlYgT8SgNnDU/2xubhJEj2QA"
+  },
+  "press/zougla-2022-vatsnies-min-milas/screenshot": {
+   "id": "press/zougla-2022-vatsnies-min-milas/screenshot",
+   "category": "press",
+   "owner": "zougla-2022-vatsnies-min-milas",
+   "kind": "screenshot",
+   "caption": "",
+   "credit": "zougla.gr",
+   "source_url": "https://www.zougla.gr/books/article/kritiki-gia-ta-vivlia-tou-stergiou-xatzikiriakidi-mi-milas-den-ine-aparemfato-mi8istorima-ke-vatsnies-digimata",
+   "date": "",
+   "w": 1440,
+   "h": 900,
+   "orig": "1440x900",
+   "src": {
+    "1600": "media/press/zougla-2022-vatsnies-min-milas/screenshot-1600.webp",
+    "800": "media/press/zougla-2022-vatsnies-min-milas/screenshot-800.webp",
+    "400": "media/press/zougla-2022-vatsnies-min-milas/screenshot-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYAA8APu1kqk2ppaQiMAgBMB2JZwDCgB6H5xhU6Fy921aZAAD+2pxO+KVNvEL7YGAb2QKAvwgl92yrfj0Hx3kncWFkcJqQnhU21601MDwSDLVuKfwAAA=="
+  },
+  "books/grover/01": {
+   "id": "books/grover/01",
+   "category": "books",
+   "owner": "grover",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1051.jpg",
+   "date": "",
+   "w": 591,
+   "h": 901,
+   "orig": "591x901",
+   "src": {
+    "1600": "media/books/grover/01-1600.webp",
+    "800": "media/books/grover/01-800.webp",
+    "400": "media/books/grover/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAD4omU2DGg9lsRIwucRocIAAD+8ed7LrkOvhdkrUplcqdXu4uZEDTE7rf6ZbOYBDA/ccPqVEGgxt18+05415SQz1OYH3UNgIzqLbTi0Yas0wsflu60vsinLEpDRctKWHVC1/1DRIL3FiWqGE36lAl9+A54eNaytT5UNLbBUNmTQMraUNkUN/sYMAAA",
+   "is_cover": true
+  },
+  "books/grover-2-i-yposimeiosi/01": {
+   "id": "books/grover-2-i-yposimeiosi/01",
+   "category": "books",
+   "owner": "grover-2-i-yposimeiosi",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1218.jpg",
+   "date": "",
+   "w": 1679,
+   "h": 2532,
+   "orig": "1679x2532",
+   "src": {
+    "1600": "media/books/grover-2-i-yposimeiosi/01-1600.webp",
+    "800": "media/books/grover-2-i-yposimeiosi/01-800.webp",
+    "400": "media/books/grover-2-i-yposimeiosi/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAD5DncNjsiNGOlPPHp1P7ZwAD+9DCeezvGPGwX6zxXj2b135KIIkEEnn7+yohzj4PyWH1D6r7bLrZS2gql1BvxDIj5q/Ss3ZWS+25GCmZVPUd9DJo68nlQ7sfeUhuddpdDMCvH8LC61eapXDw+U+rMWZ1tc/D7rg3JVwtw0YMCWY2+HLlKt/kduVtHcwxoYAAA",
+   "is_cover": true
+  },
+  "books/istories-aplis-logikis/01": {
+   "id": "books/istories-aplis-logikis/01",
+   "category": "books",
+   "owner": "istories-aplis-logikis",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Νήσος",
+   "source_url": "https://cdn.politeianet.gr/data/images/Product/392873/1/el/3005-0465.jpg",
+   "date": "",
+   "w": 681,
+   "h": 1200,
+   "orig": "681x1200",
+   "src": {
+    "1600": "media/books/istories-aplis-logikis/01-1600.webp",
+    "800": "media/books/istories-aplis-logikis/01-800.webp",
+    "400": "media/books/istories-aplis-logikis/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoOABgAPu1iqU2ppaQiMAgBMB2JYwCdABjdP9ZlEoRJ6gAA/tOK2LhmAgCkD0Pge+SKZrymTe4b+lTOVfm5r/RQo6mduI6/Y5YRteKOvSSlv2TvS0HrrX7YjhFgyfrZWygULuUfbtybLJDAnHma2FLRNqWkEGTDzvwzP81PgAA=",
+   "is_cover": true
+  },
+  "books/min-milas-den-einai-aparemfato/01": {
+   "id": "books/min-milas-den-einai-aparemfato/01",
+   "category": "books",
+   "owner": "min-milas-den-einai-aparemfato",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1178.jpg",
+   "date": "",
+   "w": 555,
+   "h": 836,
+   "orig": "555x836",
+   "src": {
+    "1600": "media/books/min-milas-den-einai-aparemfato/01-1600.webp",
+    "800": "media/books/min-milas-den-einai-aparemfato/01-800.webp",
+    "400": "media/books/min-milas-den-einai-aparemfato/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoRwN6B+KsYAASFjMtpV4Xc7UYAA+wH/jcU6toBvmbfnYy6oKA49UiotUT1gRSiJOPgGbcQOaf62jP9uDAgLX4u7S+sUI5hz2Qg31Oy2SayvQpvZ37ytTwpS0NonyCOMcCEZgnR0nG+G6skqVia9MLI+9f0U8nf5OST99meANSVj+FQAAAA=",
+   "is_cover": true
+  },
+  "books/short-stories-en/01": {
+   "id": "books/short-stories-en/01",
+   "category": "books",
+   "owner": "short-stories-en",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1108.jpg",
+   "date": "",
+   "w": 718,
+   "h": 1010,
+   "orig": "718x1010",
+   "src": {
+    "1600": "media/books/short-stories-en/01-1600.webp",
+    "800": "media/books/short-stories-en/01-800.webp",
+    "400": "media/books/short-stories-en/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwBACdASoRABgAPu1sq1EppiOiqAqpMB2JYwDA3BEYKfumjFVHR2cLCRNAaUrMAPfesryrRMbHsTpe+sHktO8tM+EXOBlAbT8f8m1coPVN9VBrbDOQ5TpMAcOxc1EZxi35/IASODxIWzEKYnjpYLYBrRgWp2bIzMIKZs/PMyMmXIOc2pAUKDqSWH5Tkx3OiuqWoS6kAAA=",
+   "is_cover": true
+  },
+  "books/skalomenoi-se-ena-mpar/01": {
+   "id": "books/skalomenoi-se-ena-mpar/01",
+   "category": "books",
+   "owner": "skalomenoi-se-ena-mpar",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1110.jpg",
+   "date": "",
+   "w": 830,
+   "h": 1247,
+   "orig": "830x1247",
+   "src": {
+    "1600": "media/books/skalomenoi-se-ena-mpar/01-1600.webp",
+    "800": "media/books/skalomenoi-se-ena-mpar/01-800.webp",
+    "400": "media/books/skalomenoi-se-ena-mpar/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZwAAWo3YMkzJ7hGgAP6jf2Mc7qO77aMdXBqbgEhYUKsGN/ef/D8eIGM2S+mpNu8SRkkfekFM3qY+OzL9lVTa+ff2sdBQU6N8dO0OWi9qAU5wP/guzxcBTnopaBYEIa/mwAAA",
+   "is_cover": true
+  },
+  "books/texniti-noimosyni-llm/01": {
+   "id": "books/texniti-noimosyni-llm/01",
+   "category": "books",
+   "owner": "texniti-noimosyni-llm",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1226.jpg",
+   "date": "",
+   "w": 379,
+   "h": 567,
+   "orig": "379x567",
+   "src": {
+    "1600": "media/books/texniti-noimosyni-llm/01-1600.webp",
+    "800": "media/books/texniti-noimosyni-llm/01-800.webp",
+    "400": "media/books/texniti-noimosyni-llm/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JYwC06CHUr9c7OaHB0k4AAP7xGOli+PtV1O8+c1bD7b94OpBscHfxKLijMdLZ6eMNnhyU6kCRqAWly/zQ7aZ1wZfRS7V9I6OGTaH/fb1D+CAG4VeryuAA",
+   "is_cover": true
+  },
+  "books/vatsnies/01": {
+   "id": "books/vatsnies/01",
+   "category": "books",
+   "owner": "vatsnies",
+   "kind": "cover",
+   "caption": "",
+   "credit": "Δίαυλος",
+   "source_url": "https://diavlos-books.gr/image/catalog/migrationpics/1156.jpg",
+   "date": "",
+   "w": 554,
+   "h": 831,
+   "orig": "554x831",
+   "src": {
+    "1600": "media/books/vatsnies/01-1600.webp",
+    "800": "media/books/vatsnies/01-800.webp",
+    "400": "media/books/vatsnies/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaACdAB6XDleuqPh6C4imZAAA/j+yGI59TfLzRXMxasTz2ZwoC08VClwRmx1JMRzIA/w3c0qWfO8nEe2/1RrnWTJvuX5sN89RcaQ/tMw9mq9x36IczGDbHMZ8biJiaLzr0lkVPwk0htLZqWTfdjRdfYZnRzY1sbnxu10luoUZVwQyDSN6P8o4AAA=",
+   "is_cover": true
+  },
+  "author/author/01": {
+   "id": "author/author/01",
+   "category": "author",
+   "owner": "author",
+   "kind": "portrait",
+   "caption": "",
+   "credit": "Google Site Profile",
+   "source_url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
+   "date": "",
+   "w": 929,
+   "h": 823,
+   "orig": "929x823",
+   "src": {
+    "1600": "media/author/author/01-1600.webp",
+    "800": "media/author/author/01-800.webp",
+    "400": "media/author/author/01-400.webp"
+   },
+   "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASoYABUAPu1sqlGppaOiqAqpMB2JQAECAC8sbWoSD5BYdJl+dDkMTey+aVgV5AAA+vFUJCLazO95v4FbmGVGmCRYPTyssA4R5rdHK7OFoY+emrWh2tGWwj6v94fxwWtHr7QlMqjssQVAye0/KWLQyzLS641+PbdF8XkjA88U058s2ouRLlbuSMxrjprcRB5GRsFMCPFBuSNT95tHqNDsyDiElbmv/Pb2dzFHOBe1cgMvXwiDmvxkgAAA"
+  }
+ },
+ "events": {
+  "2017-12-27-fuit-grevena": [
+   "events/2017-12-27-fuit-grevena/01"
+  ],
+  "2018-10-12-aition-athens": [
+   "events/2018-10-12-aition-athens/01"
+  ],
+  "2019-01-11-zogia-thessaloniki": [
+   "events/2019-01-11-zogia-thessaloniki/01"
+  ],
+  "2019-12-19-aition-athens": [
+   "events/2019-12-19-aition-athens/01"
+  ],
+  "2019-12-29-fuit-grevena": [
+   "events/2019-12-29-fuit-grevena/01"
+  ],
+  "2021-10-20-arokaria": [
+   "events/2021-10-20-arokaria/01"
+  ],
+  "2021-11-27-heraklion-kalokairinos": [
+   "events/2021-11-27-heraklion-kalokairinos/01"
+  ],
+  "2022-04-15-zogia-thessaloniki": [
+   "events/2022-04-15-zogia-thessaloniki/01"
+  ],
+  "2022-04-20-fuit-grevena": [
+   "events/2022-04-20-fuit-grevena/01"
+  ],
+  "2024-03-21-enaestro-exarchia": [
+   "events/2024-03-21-enaestro-exarchia/01"
+  ],
+  "2024-06-08-mple-elafi-kozani": [
+   "events/2024-06-08-mple-elafi-kozani/01"
+  ],
+  "2024-12-29-cafe-lotos": [
+   "events/2024-12-29-cafe-lotos/01"
+  ],
+  "2024-grover2-anagnostopoulos-papadimas": [
+   "events/2024-grover2-anagnostopoulos-papadimas/01"
+  ],
+  "2024-grover2-grevena": [
+   "events/2024-grover2-grevena/01"
+  ],
+  "2024-grover2-thessaloniki": [
+   "events/2024-grover2-thessaloniki/01"
+  ],
+  "2025-03-27-enaestro": [
+   "events/2025-03-27-enaestro/01"
+  ],
+  "2025-12-13-themelio": [
+   "events/2025-12-13-themelio/01"
+  ]
+ },
+ "press": {
+  "diastixo-2018-grover": "press/diastixo-2018-grover/screenshot",
+  "diastixo-2022-vatsnies-min-milas": "press/diastixo-2022-vatsnies-min-milas/screenshot",
+  "fractal-2021-vatsnies": "press/fractal-2021-vatsnies/screenshot",
+  "goodreads-reader-reviews": "press/goodreads-reader-reviews/screenshot",
+  "kathimerini-2019-skalomenoi": "press/kathimerini-2019-skalomenoi/screenshot",
+  "olafaq-2022-min-milas": "press/olafaq-2022-min-milas/screenshot",
+  "paok24-2018-grover-interview": "press/paok24-2018-grover-interview/screenshot",
+  "radio-2022-ntames-spathi": "press/radio-2022-ntames-spathi/screenshot",
+  "youtube-2022-ntames-spathi": "press/youtube-2022-ntames-spathi/screenshot",
+  "zougla-2022-vatsnies-min-milas": "press/zougla-2022-vatsnies-min-milas/screenshot"
+ },
+ "books": {
+  "grover": [
+   "books/grover/01"
+  ],
+  "grover-2-i-yposimeiosi": [
+   "books/grover-2-i-yposimeiosi/01"
+  ],
+  "istories-aplis-logikis": [
+   "books/istories-aplis-logikis/01"
+  ],
+  "min-milas-den-einai-aparemfato": [
+   "books/min-milas-den-einai-aparemfato/01"
+  ],
+  "short-stories-en": [
+   "books/short-stories-en/01"
+  ],
+  "skalomenoi-se-ena-mpar": [
+   "books/skalomenoi-se-ena-mpar/01"
+  ],
+  "texniti-noimosyni-llm": [
+   "books/texniti-noimosyni-llm/01"
+  ],
+  "vatsnies": [
+   "books/vatsnies/01"
+  ]
+ },
+ "author": [
+  "author/author/01"
+ ],
+ "hero": [
+  "events/2019-12-29-fuit-grevena/01",
+  "events/2017-12-27-fuit-grevena/01",
+  "events/2021-10-20-arokaria/01",
+  "events/2024-grover2-grevena/01",
+  "events/2018-10-12-aition-athens/01"
+ ],
+ "press_kit": [
+  "events/2019-12-29-fuit-grevena/01",
+  "events/2017-12-27-fuit-grevena/01",
+  "events/2021-10-20-arokaria/01",
+  "events/2024-grover2-grevena/01",
+  "events/2018-10-12-aition-athens/01"
+ ]
+}

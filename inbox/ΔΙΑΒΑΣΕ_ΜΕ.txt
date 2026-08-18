@@ -1,0 +1,17 @@
+Εδώ ανεβάζεις φωτογραφίες από τον browser. Το site τις παίρνει μόνο του σε 2-3 λεπτά.
+
+ΦΩΤΟΓΡΑΦΙΕΣ ΠΑΡΟΥΣΙΑΣΗΣ
+  Άνοιξε τον φάκελο inbox/events/ → Add file → Upload files.
+  Στο πεδίο του ονόματος γράψε πρώτα το id της παρουσίασης και μια κάθετο, π.χ.  2025-12-13-themelio/  και μετά σύρε τα αρχεία.
+  Τα id είναι αυτά του src/data/events.json (π.χ. 2024-12-29-cafe-lotos, 2019-01-11-zogia-thessaloniki).
+  Νέα παρουσίαση; Πρώτα πρόσθεσέ την στο books-assets/data/events.json (ή στο src/data/events.json) και μετά ανέβασε τις φωτογραφίες.
+  Προαιρετικά, στον ίδιο φάκελο ένα captions.json:  [{"file":"01.jpg","caption":"...","credit":"Φωτ. Χ","source_url":""}]
+
+ΕΙΚΟΝΕΣ ΒΙΒΛΙΟΥ (οπισθόφυλλο, σαλόνια)     inbox/books/<slug>/   π.χ. inbox/books/grover/
+ΣΤΙΓΜΙΟΤΥΠΟ ΚΡΙΤΙΚΗΣ                       inbox/press/<review-id>.jpg   (τα id στο src/data/reviews.json)
+ΝΕΟ ΠΟΡΤΡΕΤΟ                               inbox/portrait.jpg
+ΦΩΤΟΓΡΑΦΙΑ ΑΡΧΙΚΗΣ                         inbox/hero.txt με μία γραμμή, τον κωδικό της (π.χ. events/2019-12-29-fuit-grevena/01)
+
+Δεκτά: jpg, jpeg, png, webp, tif. ΟΧΙ heic (iPhone), ΟΧΙ raw. Ανέβασε εξαγωγές για web (έως 2500 px), όχι πρωτότυπα.
+Μετά από κάθε ανέβασμα τα αρχεία εξαφανίζονται από εδώ (μπήκαν στο site) και γράφεται μια γραμμή στο ΑΝΕΒΗΚΑΝ.txt.
+Για να ΑΦΑΙΡΕΣΕΙΣ φωτογραφία: src/data/media.json, σβήσε τον κωδικό της από τη λίστα του event (και το αντικείμενό της από "items").

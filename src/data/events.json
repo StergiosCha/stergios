@@ -32,9 +32,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2025-12-13-themelio.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2025-12-13-themelio"
+  "media": [
+   "events/2025-12-13-themelio/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2024-12-29-cafe-lotos",
@@ -52,9 +53,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2024-12-29-cafe-lotos.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2024-12-29-cafe-lotos"
+  "media": [
+   "events/2024-12-29-cafe-lotos/01"
+  ],
+  "poster": "events/2024-12-29-cafe-lotos/01"
  },
  {
   "id": "2025-03-27-enaestro",
@@ -81,9 +83,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2025-03-27-enaestro.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2025-03-27-enaestro"
+  "media": [
+   "events/2025-03-27-enaestro/01"
+  ],
+  "poster": "events/2025-03-27-enaestro/01"
  },
  {
   "id": "2024-grover2-thessaloniki",
@@ -114,9 +117,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2024-grover2-thessaloniki.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2024-grover2-thessaloniki"
+  "media": [
+   "events/2024-grover2-thessaloniki/01"
+  ],
+  "poster": "events/2024-grover2-thessaloniki/01"
  },
  {
   "id": "2024-grover2-grevena",
@@ -143,9 +147,10 @@
   "photos_url": "",
   "video_url": "https://www.facebook.com/stergios.chatzikyriakidis/videos/403212219383799",
   "upcoming": false,
-  "photo": "photos/events/2024-grover2-grevena.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2024-grover2-grevena"
+  "media": [
+   "events/2024-grover2-grevena/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2024-03-21-enaestro-exarchia",
@@ -176,9 +181,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2024-03-21-enaestro-exarchia.jpg",
-  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
-  "photo_key": "2024-03-21-enaestro-exarchia"
+  "media": [
+   "events/2024-03-21-enaestro-exarchia/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2022-04-20-fuit-grevena",
@@ -202,9 +208,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2022-04-20-fuit-grevena.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2022-04-20-fuit-grevena"
+  "media": [
+   "events/2022-04-20-fuit-grevena/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2022-04-15-zogia-thessaloniki",
@@ -232,9 +239,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2022-04-15-zogia-thessaloniki.jpg",
-  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
-  "photo_key": "2022-04-15-zogia-thessaloniki"
+  "media": [
+   "events/2022-04-15-zogia-thessaloniki/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2021-11-27-heraklion-kalokairinos",
@@ -261,9 +269,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2021-11-27-heraklion-kalokairinos.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2021-11-27-heraklion-kalokairinos"
+  "media": [
+   "events/2021-11-27-heraklion-kalokairinos/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2021-10-20-arokaria",
@@ -290,9 +299,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2021-10-20-arokaria.jpg",
-  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
-  "photo_key": "2021-10-20-arokaria"
+  "media": [
+   "events/2021-10-20-arokaria/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2019-12-29-fuit-grevena",
@@ -323,9 +333,10 @@
   "photos_url": "https://www.facebook.com/permalink.php?story_fbid=1714374398695466&id=150065845126337",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2019-12-29-fuit-grevena.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2019-12-29-fuit-grevena"
+  "media": [
+   "events/2019-12-29-fuit-grevena/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2019-12-19-aition-athens",
@@ -360,9 +371,10 @@
   "photos_url": "https://www.facebook.com/stergios.chatzikyriakidis/posts/10101655255462186",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2019-12-19-aition-athens.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2019-12-19-aition-athens"
+  "media": [
+   "events/2019-12-19-aition-athens/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2019-01-11-zogia-thessaloniki",
@@ -397,9 +409,10 @@
   "photos_url": "https://www.facebook.com/zogia.kafe/posts/990261514501947",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2019-01-11-zogia-thessaloniki.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2019-01-11-zogia-thessaloniki"
+  "media": [
+   "events/2019-01-11-zogia-thessaloniki/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2018-10-12-aition-athens",
@@ -434,9 +447,10 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2018-10-12-aition-athens.jpg",
-  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
-  "photo_key": "2018-10-12-aition-athens"
+  "media": [
+   "events/2018-10-12-aition-athens/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2017-12-27-fuit-grevena",
@@ -467,9 +481,10 @@
   "photos_url": "https://www.facebook.com/pg/Fuit-art-cafe-150065845126337/photos/?tab=album&album_id=1143659455766966",
   "video_url": "",
   "upcoming": false,
-  "photo": "photos/events/2017-12-27-fuit-grevena.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2017-12-27-fuit-grevena"
+  "media": [
+   "events/2017-12-27-fuit-grevena/01"
+  ],
+  "poster": ""
  },
  {
   "id": "2024-06-08-mple-elafi-kozani",
@@ -497,9 +512,10 @@
   "video_url": "",
   "upcoming": false,
   "source": "poster on the Google Site (Δραστηριότητες), Σάββατο 8 Ιουνίου 19:00",
-  "photo": "photos/events/2024-06-08-mple-elafi-kozani.jpg",
-  "photo_source": "Google Site (Δραστηριότητες)",
-  "photo_key": "2024-06-08-mple-elafi-kozani"
+  "media": [
+   "events/2024-06-08-mple-elafi-kozani/01"
+  ],
+  "poster": "events/2024-06-08-mple-elafi-kozani/01"
  },
  {
   "id": "2024-grover2-anagnostopoulos-papadimas",
@@ -527,8 +543,9 @@
   "video_url": "",
   "upcoming": false,
   "source": "Google Site (Δραστηριότητες), no date or venue given",
-  "photo": "photos/events/2024-grover2-anagnostopoulos-papadimas.jpg",
-  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
-  "photo_key": "2024-grover2-anagnostopoulos-papadimas"
+  "media": [
+   "events/2024-grover2-anagnostopoulos-papadimas/01"
+  ],
+  "poster": ""
  }
 ]

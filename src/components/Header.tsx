@@ -5,7 +5,7 @@ import { useTheme } from './Theme';
 export default function Header() {
   const { t, lang, toggle } = useLang();
   const { theme, toggle: toggleTheme } = useTheme();
-  const items = [['/books', t.nav.books], ['/texts', t.nav.texts], ['/reviews', t.nav.reviews], ['/events', t.nav.events], ['/about', t.nav.about], ['/contact', t.nav.contact]] as const;
+  const items = [['/books', t.nav.books], ['/texts', t.nav.texts], ['/reviews', t.nav.reviews], ['/events', t.nav.events], ['/press', t.nav.press], ['/about', t.nav.about], ['/contact', t.nav.contact]] as const;
   return (
     <header className="hdr">
       <a href="#main" className="skip-link">{t.skip}</a>

@@ -29,3 +29,7 @@ public/assets/metadata/
 *.png
 !src/**/*.png
 !public/assets/portrait/*.webp
+.claude/
+
+# inbox uploads must be committed even though images are ignored elsewhere
+!inbox/**
