@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import Seo from '../components/Seo';
+import Photo from '../components/Photo';
 import { events, getBook, upcoming, author } from '../data';
 import { useLang } from '../i18n/LanguageContext';
 import { fmtDate } from '../lib/format';
@@ -9,9 +10,10 @@ export default function Events() {
   const up = upcoming();
   const past = events.filter((e) => !up.includes(e));
   const Row = ({ e }: { e: (typeof events)[number] }) => (
-    <li className="list__item">
+    <li className={`list__item${e.photo_key ? ' list__item--photo' : ''}`}>
       <span className="list__date">{fmtDate(e.date, lang, e.date_precision)}</span>
       <span>
+        {e.photo_key && <Photo id={e.photo_key} alt="" sizes="(min-width: 640px) 420px, 100vw" className="event-photo" />}
         <span className="list__title">{e.title || e.book.map((s) => getBook(s)?.title_el).filter(Boolean).join(' & ')}</span>
         <span className="list__sub" style={{ display: 'block' }}>{[e.venue, e.city].filter(Boolean).join(', ')}</span>
         {e.speakers?.length ? <span className="list__sub" style={{ display: 'block' }}>{t.events.speakers}: {e.speakers.map((s) => s.role ? `${s.name} (${s.role})` : s.name).join(', ')}</span> : null}

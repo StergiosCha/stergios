@@ -4,6 +4,7 @@ import eventsRaw from './events.json';
 import authorRaw from './author.json';
 import textsRaw from './texts.json';
 import coversRaw from './covers.json';
+import photosRaw from './photos.json';
 
 export interface Buy { shop: string; url: string }
 export interface Book {
@@ -19,7 +20,7 @@ export interface Review {
 }
 export interface Ev {
   id: string; date: string; date_precision?: string; book: string[]; title?: string; venue?: string; city?: string; country?: string;
-  speakers?: { name: string; role?: string }[]; url?: string; photos_url?: string; video_url?: string; upcoming?: boolean;
+  speakers?: { name: string; role?: string }[]; url?: string; photos_url?: string; video_url?: string; upcoming?: boolean; photo_key?: string;
 }
 export interface TextItem {
   slug: string; title: string; kind_label: string; kind: string; blurb: string; note: string; note_html: string; minutes: number;
@@ -38,6 +39,8 @@ export const events = (eventsRaw as Ev[]).slice().sort((a, b) => (a.date < b.dat
 export const author = authorRaw as Author;
 export const texts = textsRaw as TextItem[];
 export const covers = coversRaw as Record<string, Cover>;
+export interface PhotoAsset { w: number; h: number; src: Record<string, string>; blur: string }
+export const photos = photosRaw as Record<string, PhotoAsset>;
 
 export const getBook = (slug: string) => books.find((b) => b.slug === slug);
 export const getText = (slug: string) => texts.find((t) => t.slug === slug);

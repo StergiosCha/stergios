@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import Seo from '../components/Seo';
 import Cover from '../components/Cover';
+import Photo from '../components/Photo';
 import { books, texts, events, reviews, author, upcoming } from '../data';
 import { useLang } from '../i18n/LanguageContext';
 import { fmtDate } from '../lib/format';
@@ -17,10 +18,13 @@ export default function Home() {
   return (
     <>
       <Seo description={t.home.metaDescription} image={latest.slug} />
-      <section className="intro wrap">
-        <p className="label">{lang === 'el' ? 'Συγγραφέας' : 'Author'}</p>
-        <h1 className="display">{lang === 'el' ? author.name_el : author.name_en}</h1>
-        <p>{t.home.intro}</p>
+      <section className="intro wrap intro--photo">
+        <div>
+          <p className="label">{lang === 'el' ? 'Συγγραφέας' : 'Author'}</p>
+          <h1 className="display">{lang === 'el' ? author.name_el : author.name_en}</h1>
+          <p>{t.home.intro}</p>
+        </div>
+        <Photo id="portrait" alt={lang === 'el' ? author.name_el : author.name_en} sizes="(min-width: 760px) 300px, 60vw" priority className="intro__photo" />
       </section>
 
       <section className="wrap feature" aria-labelledby="latest">

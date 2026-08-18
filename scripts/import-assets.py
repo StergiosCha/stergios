@@ -98,6 +98,27 @@ for b in books:
         covers[b['slug']] = derive(src, b['slug'])
     else:
         b['cover'] = ''
+# portrait + event photos -> public/photos, sizes in covers.json under 'portrait' and 'event:<id>'
+OUT_PHOTOS = ROOT / 'public/photos'; OUT_PHOTOS.mkdir(parents=True, exist_ok=True)
+def derive_photo(src: Path, key: str, widths=(1200, 600)) -> dict:
+    im = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
+    out = {'w': im.width, 'h': im.height, 'src': {}}
+    for w in widths:
+        c = im.copy(); c.thumbnail((w, w))
+        c.save(OUT_PHOTOS / f'{key}-{w}.webp', 'WEBP', quality=84, method=6)
+        out['src'][str(w)] = f'photos/{key}-{w}.webp'
+    b = im.copy(); b.thumbnail((24, 24)); buf = io.BytesIO(); b.save(buf, 'WEBP', quality=40)
+    out['blur'] = 'data:image/webp;base64,' + base64.b64encode(buf.getvalue()).decode()
+    return out
+photos = {}
+if (ASSETS / 'photos/portrait.jpg').exists():
+    photos['portrait'] = derive_photo(ASSETS / 'photos/portrait.jpg', 'portrait')
+for e in events:
+    if e.get('photo') and (ASSETS / e['photo']).exists():
+        photos[e['id']] = derive_photo(ASSETS / e['photo'], 'event-' + e['id'], widths=(1200, 480))
+        e['photo_key'] = e['id']
+(OUT_DATA / 'photos.json').write_text(json.dumps(photos, ensure_ascii=False, indent=1))
+
 # extra cover for the unpublished collection text
 panta = OLD / 'covers/panta.jpg'
 if panta.exists(): covers['panta'] = derive(panta, 'panta')
@@ -108,4 +129,4 @@ if panta.exists(): covers['panta'] = derive(panta, 'panta')
 (OUT_DATA / 'author.json').write_text(json.dumps(author, ensure_ascii=False, indent=1))
 (OUT_DATA / 'texts.json').write_text(json.dumps(texts, ensure_ascii=False, indent=1))
 (OUT_DATA / 'covers.json').write_text(json.dumps(covers, ensure_ascii=False, indent=1))
-print(f'{len(books)} books, {len(reviews)} reviews, {len(events)} events, {len(texts)} texts, {len(covers)} covers')
+print(f'{len(photos)} photos, {len(books)} books, {len(reviews)} reviews, {len(events)} events, {len(texts)} texts, {len(covers)} covers')
