@@ -9,6 +9,8 @@ const dict = {
     langToggle: 'Switch to English',
     themeToggle: 'Εναλλαγή φωτεινού και σκοτεινού',
     skip: 'Μετάβαση στο περιεχόμενο',
+    menuOpen: 'Άνοιγμα μενού',
+    menuClose: 'Κλείσιμο μενού',
     more: 'Περισσότερα',
     kinds: { novel: 'Μυθιστόρημα', 'short-stories': 'Διηγήματα', poetry: 'Ποίηση', 'non-fiction': 'Δοκίμιο' } as Record<string, string>,
     home: {
@@ -76,6 +78,8 @@ const dict = {
     langToggle: 'Αλλαγή σε Ελληνικά',
     themeToggle: 'Toggle light and dark',
     skip: 'Skip to content',
+    menuOpen: 'Open menu',
+    menuClose: 'Close menu',
     more: 'More',
     kinds: { novel: 'Novel', 'short-stories': 'Short stories', poetry: 'Poetry', 'non-fiction': 'Non-fiction' } as Record<string, string>,
     home: {

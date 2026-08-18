@@ -334,5 +334,32 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   a { color: inherit; border-bottom: 0 !important; }
   .page { animation: none; }
 }
-@media (max-width: 759px) { .book__side > .cover { max-width: 240px; } .ev { scroll-margin-top: 11rem; } }
+@media (max-width: 759px) { .book__side > .cover { max-width: 240px; } .ev { scroll-margin-top: 5rem; } }
 @media (min-width: 760px) { .ev { scroll-margin-top: 6rem; } }
+
+/* ---------- mobile header: burger menu below 900px ---------- */
+.hdr__mobile-tools { display: none; }
+.hdr__burger { position: relative; width: 2.5rem; height: 2.5rem; margin-right: -.5rem; display: grid; place-items: center; }
+.hdr__burger span, .hdr__burger span::before, .hdr__burger span::after { display: block; width: 1.35rem; height: 1.5px; background: var(--ink); transition: transform var(--t) var(--ease), opacity var(--t); content: ''; position: relative; }
+.hdr__burger span::before { position: absolute; top: -.42rem; }
+.hdr__burger span::after { position: absolute; top: .42rem; }
+.is-open .hdr__burger span { background: transparent; }
+.is-open .hdr__burger span::before { transform: translateY(.42rem) rotate(45deg); }
+.is-open .hdr__burger span::after { transform: translateY(-.42rem) rotate(-45deg); }
+.hdr__veil { display: none; }
+@media (max-width: 899px) {
+  .hdr__inner { flex-wrap: nowrap; align-items: center; padding-block: .85rem; }
+  .hdr__brand { font-size: 1.05rem; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hdr__mobile-tools { display: inline-flex; align-items: center; gap: .9rem; flex-shrink: 0; }
+  .hdr__nav { position: fixed; top: 0; right: 0; bottom: 0; width: min(20rem, 85vw); background: var(--paper); border-left: 1px solid var(--line); z-index: 60; padding: 5rem var(--gutter) 2rem; overflow-y: auto; opacity: 0; visibility: hidden; transition: opacity var(--t) var(--ease), visibility 0s linear var(--t); }
+  .is-open .hdr__nav { opacity: 1; visibility: visible; transition: opacity var(--t) var(--ease); }
+  .hdr__nav ul { flex-direction: column; align-items: stretch; gap: 0; }
+  .hdr__nav .hdr__link { display: block; font-family: var(--font-display); font-size: 1.35rem; letter-spacing: .01em; text-transform: none; padding: .8rem 0; border-bottom: 1px solid var(--line); color: var(--ink); }
+  .hdr__nav .hdr__link.is-active { color: var(--accent); }
+  .hdr__nav .hdr__tools { display: none; }
+  .hdr__veil { display: block; position: fixed; inset: 0; z-index: 50; background: rgba(20,17,13,.35); animation: fade var(--t) var(--ease) both; }
+  .is-open .hdr__mobile-tools { position: relative; z-index: 70; }
+  .hdr.is-open { z-index: 70; }
+  .hdr__mobile-tools .hdr__btn { font-size: .78rem; }
+}
+@media (prefers-reduced-motion: reduce) { .hdr__nav, .hdr__veil, .hdr__burger span, .hdr__burger span::before, .hdr__burger span::after { transition: none; animation: none; } }
