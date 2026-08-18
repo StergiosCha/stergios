@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const books = JSON.parse(readFileSync(resolve(root, 'src/data/books.json'), 'utf8'));
 const texts = JSON.parse(readFileSync(resolve(root, 'src/data/texts.json'), 'utf8'));
-const SITE_URL = (process.env.SITE_URL ?? 'https://stergioscha.github.io/literature').replace(/\/$/, '');
+const SITE_URL = (process.env.SITE_URL ?? 'https://stergioscha.github.io/stergios').replace(/\/$/, '');
 
 const routes = ['/', '/books', '/texts', '/reviews', '/events', '/about', '/contact', ...books.map((b) => `/books/${b.slug}`), ...texts.map((t) => `/texts/${t.slug}`)];
 const today = new Date().toISOString().slice(0, 10);

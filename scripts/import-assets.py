@@ -72,7 +72,7 @@ if (OLD / 'figures').exists():
     shutil.copytree(OLD / 'figures', ROOT / 'public/figures', dirs_exist_ok=True)
 for t in texts:
     p = OUT_TEXTS / f"{t['slug']}.html"
-    s = p.read_text().replace('../figures/', '/literature/figures/')
+    s = p.read_text().replace('../figures/', '/stergios/figures/')
     p.write_text(s)
 
 # link texts to books

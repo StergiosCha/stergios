@@ -1,12 +1,12 @@
 # Στέργιος Χατζηκυριακίδης, λογοτεχνικός ιστότοπος
 
-Live: https://stergioscha.github.io/literature/
+Live: https://stergioscha.github.io/stergios/
 
 React 18 + Vite + TypeScript, plain CSS, ΕΛ/EN, φωτεινό/σκοτεινό θέμα. Καμία βάση, κανένα CMS.
 
 ## Τοπικά
     npm install
-    npm run dev          # http://localhost:5173/literature/
+    npm run dev          # http://localhost:5173/stergios/
     npm run build        # sitemap + robots, tsc, vite
 
 ## Πού είναι το περιεχόμενο
