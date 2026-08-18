@@ -135,8 +135,8 @@ if portrait:
     photos['portrait'] = {'w': d['w'], 'h': d['h'], 'src': d['src'], 'blur': d['blur']}
 
 # ---- media (round 2) --------------------------------------------------------------------
-# Kinds verified against the Google Site page on 2026-08-18: three event images are posters, the rest photos.
-POSTERS = {'2025-03-27-enaestro', '2024-grover2-thessaloniki', '2024-06-08-mple-elafi-kozani'}
+# Kinds checked by eye on 2026-08-18 (contact sheet of all 17 images): three are posters, the rest photos.
+POSTERS = {'2025-03-27-enaestro', '2024-12-29-cafe-lotos', '2024-06-08-mple-elafi-kozani'}
 # Home header band candidates, in order of preference (REPORT_MEDIA.md §3, wide shots of a reading or audience).
 HERO = ['2019-12-29-fuit-grevena', '2017-12-27-fuit-grevena', '2021-10-20-arokaria', '2024-grover2-grevena', '2018-10-12-aition-athens']
 GENERIC_CAPTION = re.compile(r'^(Φωτογραφία / Αφίσα από την εκδήλωση|Στιγμιότυπο δημοσιεύματος / κριτικής|Εξώφυλλο βιβλίου|Επίσημο πορτρέτο)')
