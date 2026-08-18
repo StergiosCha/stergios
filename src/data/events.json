@@ -175,7 +175,10 @@
   "url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
   "photos_url": "",
   "video_url": "",
-  "upcoming": false
+  "upcoming": false,
+  "photo": "photos/events/2024-03-21-enaestro-exarchia.jpg",
+  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
+  "photo_key": "2024-03-21-enaestro-exarchia"
  },
  {
   "id": "2022-04-20-fuit-grevena",
@@ -228,7 +231,10 @@
   "url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
   "photos_url": "",
   "video_url": "",
-  "upcoming": false
+  "upcoming": false,
+  "photo": "photos/events/2022-04-15-zogia-thessaloniki.jpg",
+  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
+  "photo_key": "2022-04-15-zogia-thessaloniki"
  },
  {
   "id": "2021-11-27-heraklion-kalokairinos",
@@ -283,7 +289,10 @@
   "url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
   "photos_url": "",
   "video_url": "",
-  "upcoming": false
+  "upcoming": false,
+  "photo": "photos/events/2021-10-20-arokaria.jpg",
+  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
+  "photo_key": "2021-10-20-arokaria"
  },
  {
   "id": "2019-12-29-fuit-grevena",
@@ -424,7 +433,10 @@
   "url": "https://sites.google.com/view/stergioschatzikyriakidis/home",
   "photos_url": "",
   "video_url": "",
-  "upcoming": false
+  "upcoming": false,
+  "photo": "photos/events/2018-10-12-aition-athens.jpg",
+  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
+  "photo_key": "2018-10-12-aition-athens"
  },
  {
   "id": "2017-12-27-fuit-grevena",
@@ -514,6 +526,9 @@
   "photos_url": "",
   "video_url": "",
   "upcoming": false,
-  "source": "Google Site (Δραστηριότητες), no date or venue given"
+  "source": "Google Site (Δραστηριότητες), no date or venue given",
+  "photo": "photos/events/2024-grover2-anagnostopoulos-papadimas.jpg",
+  "photo_source": "Google Site (Δραστηριότητες), via Antigravity round 2",
+  "photo_key": "2024-grover2-anagnostopoulos-papadimas"
  }
 ]
