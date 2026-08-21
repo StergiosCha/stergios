@@ -20,7 +20,7 @@ interface Props {
   bookList?: Book[];
 }
 
-export const SITE_ORIGIN = 'https://stergios.chatzikyriakidis.org';
+export const SITE_ORIGIN = 'https://stergioscha.github.io';
 
 function upsertJsonLd(id: string, data: object | null) {
   let el = document.head.querySelector<HTMLScriptElement>(`script[data-jsonld="${id}"]`);
