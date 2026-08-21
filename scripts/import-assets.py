@@ -89,7 +89,7 @@ if (OLD / 'figures').exists():
     shutil.copytree(OLD / 'figures', ROOT / 'public/figures', dirs_exist_ok=True)
 for t in texts:
     p = OUT_TEXTS / f"{t['slug']}.html"
-    p.write_text(p.read_text().replace('../figures/', '/stergios/figures/'))
+    p.write_text(p.read_text().replace('../figures/', '/figures/'))
 for b in books:
     b['texts'] = [t['slug'] for t in texts if t['book'] == b['slug']]
 

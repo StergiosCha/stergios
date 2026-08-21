@@ -99,7 +99,7 @@ export default function BookPage() {
                         <span className="list__title">{r.outlet}</span>{r.author ? <span className="list__sub" style={{ display: 'inline' }}> · {r.author}</span> : null}
                         <span className="meta" style={{ display: 'block' }}>{t.reviews.types[r.type] ?? r.type}{r.title ? ` · ${r.title}` : ''}</span>
                         {r.quote_el && <p className="list__quote">{r.quote_el}</p>}
-                        <span className="list__tags"><a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></span>
+                        {r.url && <span className="list__tags"><a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></span>}
                       </span>
                       {shot && (
                         <button type="button" className="clip" onClick={() => open([shot], 0)} aria-label={`${t.reviews.clipping}: ${r.outlet}`}>

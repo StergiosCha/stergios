@@ -11,7 +11,7 @@
  "bio_el_medium": "Ο Στέργιος Χατζηκυριακίδης γεννήθηκε το 1980 στα Γρεβενά. Σπούδασε Ελληνική Φιλολογία (Γλωσσολογία) στο Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης και Υπολογιστική Γλωσσολογία στο King's College London (MA, PhD). Είναι Καθηγητής Υπολογιστικής Γλωσσολογίας στο Πανεπιστήμιο Κρήτης, ενώ στο παρελθόν διετέλεσε Αναπληρωτής Καθηγητής και Αναπληρωτής Διευθυντής του κέντρου CLASP στο Πανεπιστήμιο του Γκέτεμποργκ στη Σουηδία, καθώς και υπολογιστικός γλωσσολόγος στο Λονδίνο, το Μονπελιέ και το Ανοικτό Πανεπιστήμιο Κύπρου. Στα γράμματα εμφανίστηκε το 2010. Το συγγραφικό του έργο περιλαμβάνει τέσσερα μυθιστορήματα («Γκρόβερ», «Σκαλωμένοι σε ένα μπαρ», «Μην μιλάς, δεν είναι απαρέμφατο», «Γκρόβερ 2: Η Υποσημείωση»), τρεις συλλογές διηγημάτων («Short Stories», «Βατσ'νιές», «Ιστορίες απλής λογικής και λίγης θλίψης»), μία ποιητική συλλογή («Δικαίωμα στην Αντίφαση») και ένα επιστημονικό σύγγραμμα για την Τεχνητή Νοημοσύνη.",
  "bio_en_short": "Stergios Chatzikyriakidis (b. 1980, Grevena) is a Professor of Computational Linguistics at the University of Crete. He previously served as Associate Professor and Associate Director of CLASP at the University of Gothenburg, and worked in London, Montpellier, and Cyprus. He is the author of four novels, three short story collections, poetry, and non-fiction.",
  "bio_en_medium": "Stergios Chatzikyriakidis was born in Grevena, Greece, in 1980. He studied Greek Philology and Linguistics at the Aristotle University of Thessaloniki and completed his MA and PhD in Computational Linguistics at King's College London. He is currently Professor of Computational Linguistics at the University of Crete, having previously held positions as Associate Professor and Associate Director of CLASP at the University of Gothenburg, Sweden, as well as research roles in London, Montpellier, and the Open University of Cyprus. Alongside his academic work, he is an acclaimed fiction writer whose literary bibliography spans four novels (including 'Grover' and 'Don't Speak, It's Not an Infinitive'), three short story collections ('Vatsnies', 'Stories of Simple Logic and a Little Sadness'), poetry, and accessible non-fiction on artificial intelligence.",
- "bio_source": "https://sites.google.com/view/stergioschatzikyriakidis/home",
+ "bio_source": "",
  "positions": [
   "Καθηγητής Υπολογιστικής Γλωσσολογίας, Τμήμα Φιλολογίας, Πανεπιστήμιο Κρήτης",
   "πρώην Αναπληρωτής Καθηγητής & Αναπληρωτής Διευθυντής CLASP, Πανεπιστήμιο Γκέτεμποργκ",
@@ -22,7 +22,7 @@
   "kafouroutsos@hotmail.com"
  ],
  "socials": {
-  "academic_site": "https://stergioscha.github.io/stergioschatzikyriakidis/",
+  "academic_site": "https://stergioschatzikyriakidis.org",
   "clasp": "https://clasp.gu.se/",
   "facebook": "https://www.facebook.com/stergios.chatzikyriakidis",
   "goodreads": "https://www.goodreads.com/author/show/17260533.Stergios_Chatzikyriakidis"

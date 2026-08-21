@@ -28,7 +28,7 @@ export default function Home() {
       <section className="intro wrap intro--photo">
         <div>
           <p className="intro__lead">{t.home.intro}</p>
-          <p className="meta" style={{ marginTop: '1rem' }}>{t.home.academic} <a className="link" href={author.socials.academic_site} target="_blank" rel="noopener noreferrer">stergioscha.github.io ↗</a></p>
+          <p className="meta" style={{ marginTop: '1rem' }}>{t.home.academic} <a className="link" href={author.socials.academic_site} target="_blank" rel="noopener noreferrer">stergioschatzikyriakidis.org ↗</a></p>
         </div>
         <Photo id="portrait" alt={name} sizes="(min-width: 760px) 260px, 50vw" priority className="intro__photo" />
       </section>
@@ -92,7 +92,7 @@ export default function Home() {
             {quotes.map((r) => (
               <li key={r.id} className="quote">
                 <blockquote className="quote__text">{r.quote_el}</blockquote>
-                <p className="quote__by">{r.outlet}{r.author ? `, ${r.author}` : ''} · <a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></p>
+                <p className="quote__by">{r.outlet}{r.author ? `, ${r.author}` : ''}{r.url ? <> · <a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></> : null}</p>
               </li>
             ))}
           </ul>

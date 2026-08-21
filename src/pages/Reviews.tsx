@@ -40,7 +40,7 @@ export default function Reviews() {
                   {r.title && <span className="list__sub" style={{ display: 'block' }}>{r.title}</span>}
                   {b && <span className="list__sub" style={{ display: 'block' }}>{t.reviews.on} <Link className="link" to={`/books/${b.slug}`}>{b.title_el}</Link></span>}
                   {r.quote_el && <p className="list__quote">{r.quote_el}</p>}
-                  <span className="list__tags"><a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></span>
+                  {r.url && <span className="list__tags"><a className="link-quiet" href={r.url} target="_blank" rel="noopener noreferrer">{t.reviews.read} ↗</a></span>}
                 </span>
                 {shot && (
                   <button type="button" className="clip" onClick={() => open([shot], 0)} aria-label={`${t.reviews.clipping}: ${r.outlet}`}>
