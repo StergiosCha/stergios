@@ -1,12 +1,12 @@
 # Στέργιος Χατζηκυριακίδης, λογοτεχνικός ιστότοπος
 
-Live: https://stergios.chatzikyriakidis.org/
+Live: https://stergioscha.github.io/stergios/
 
 React 18 + Vite + TypeScript, plain CSS, ΕΛ/EN, φωτεινό/σκοτεινό θέμα. Καμία βάση, κανένα CMS. Οδηγός για αλλαγές χωρίς προγραμματισμό: `ΟΔΗΓΟΣ.md`.
 
 ## Τοπικά
     npm install
-    npm run dev          # http://localhost:5173/
+    npm run dev          # http://localhost:5173/stergios/
     npm run build        # sitemap + robots, tsc, vite
 
 ## Πού είναι το περιεχόμενο
@@ -25,6 +25,6 @@ React 18 + Vite + TypeScript, plain CSS, ΕΛ/EN, φωτεινό/σκοτειν�
 Το `media.json` περιέχει `items` (κάθε εικόνα με caption, credit, source_url, μεγέθη, blur), `events` (event id → εικόνες), `press` (review id → στιγμιότυπο), `books` (slug → εικόνες, οι επαναλήψεις του εξωφύλλου σημαίνονται is_cover), `hero` (η φωτογραφία της αρχικής), `press_kit` (5 φωτογραφίες για τον Τύπο). Λεζάντες που δεν υπάρχουν μένουν κενές· το alt βγαίνει από τίτλο + χώρο της παρουσίασης.
 
 ## Deploy
-GitHub Actions σε κάθε push στο `main` (`.github/workflows/deploy.yml`) προς GitHub Pages. Το `inbox.yml` τρέχει σε push που αγγίζει `inbox/**`. Custom domain: `stergios.chatzikyriakidis.org` (`public/CNAME`). Το base είναι `/`, το `public/404.html` κρατά 0 path segments, και το origin ορίζεται στο `scripts/gen-seo.mjs` και στο `src/components/Seo.tsx`.
+GitHub Actions σε κάθε push στο `main` (`.github/workflows/deploy.yml`) προς GitHub Pages. Το `inbox.yml` τρέχει σε push που αγγίζει `inbox/**`. Custom domain αργότερα: `vite.config.ts` base `/`, `public/404.html` pathSegmentsToKeep 0, `scripts/gen-seo.mjs` και `src/components/Seo.tsx` origin, `import-assets.py` το `/stergios/figures/`.
 
 `_old/` κρατά τον προηγούμενο στατικό ιστότοπο (τα κείμενα και τα εξώφυλλα) ως πηγή. Δεν δημοσιεύεται.
